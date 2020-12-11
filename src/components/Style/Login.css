@@ -1,0 +1,37 @@
+body {
+  background-color: currentColor;
+}
+
+/* Class section */
+.company-logo {
+  width: 80px;
+  padding-top: 15px;
+}
+
+.frame-content {
+  width: 300px;
+}
+.container {
+  margin-top: 100px;
+}
+
+/* ID section */
+#format-logo-text {
+  color: darkgoldenrod;
+}
+#format-login-text {
+  color: #4b413a;
+}
+
+#format-forgot-text {
+  color: deepskyblue;
+  font-size: 12px;
+}
+#format-btn-login {
+  width: 200px;
+  margin-top: 50px;
+}
+#format-btn-register {
+  width: 200px;
+  margin-top: 25px;
+}
